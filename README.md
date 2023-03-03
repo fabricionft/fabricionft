@@ -32,6 +32,4 @@
   <a href="https://www.youtube.com/@fabricionft"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  
-  ![Snake animation](https://github.com/fabricionft/fabricionft/blob/output/github-contribution-grid-snake.svg)
 </div
