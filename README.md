@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/fabricionft">
   <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=fabricionft&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricionft&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -23,10 +23,10 @@
   <a href="https://instagram.com/fabricio_nft"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://gmail.com/fabriciodozerofz859@gmail.com"> 
+  <a href="https://gmail.com/fabriciodev859@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/fabricio-nft"> 
+  <a href="https://www.linkedin.com/in/fabricionft"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@fabricionft"> 
